@@ -1,0 +1,2 @@
+# DianPingScript
+generate dianping
